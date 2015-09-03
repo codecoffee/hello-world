@@ -7,3 +7,4 @@ nature...branches, trees
 eating...forking
 =====
 add changes to readme.md file to learn how to track issues and changes
+font size?
